@@ -1,0 +1,5 @@
+PATH_HDFS_CLIENT_Input=C:/Users/LENOVO/Desktop/ClientBank.csv
+PATH_HDFS_Transaction_Input=C:/Users/LENOVO/Desktop/TransactionBank.csv
+PATH_HDFS_OUTPUT=/user/zeineb/data_output/ 
+NOM_TABLE=Bank
+NOM_USER=Zeineb
